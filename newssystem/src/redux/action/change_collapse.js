@@ -1,0 +1,1 @@
+export const ChangeCollapse = () => ({ type: 'change_collapse'})

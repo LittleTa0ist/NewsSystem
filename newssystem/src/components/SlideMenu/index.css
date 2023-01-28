@@ -1,0 +1,12 @@
+.logo{
+    line-height: 32px;
+    padding: 5px;
+    color: darkgoldenrod;
+    font-size: 18px;
+    text-align: center;
+    background-color:rgba(255, 255, 255, 0.3);
+    /* overflow: hidden;
+    /* width: 200px; */
+    /* display: flex; */
+
+}

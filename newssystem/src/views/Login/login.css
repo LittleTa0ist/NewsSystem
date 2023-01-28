@@ -1,0 +1,26 @@
+.login{
+    background-color: rgb(35, 39, 65);
+    height: 100%;
+}
+.particles-bg-canvas-self{
+    z-index: 0 !important  ;
+}
+.container{
+    z-index: 100;
+    text-align: center;
+    position: fixed;
+    width: 500px;
+    height: 300px;
+    background-color: rgba(0, 0, 0, 0.7);
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    padding: 20px;
+}
+.loginlogo{
+    text-align: center;
+    height: 80px;
+    font-size: 30px;
+    line-height: 80px;
+    color: white;
+}
